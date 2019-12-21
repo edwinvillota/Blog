@@ -1,5 +1,7 @@
 Esta es mi historia
 
-Quiero trabajar en programación. Este es mi año
+Quiero trabajar en programación mi especialidad
+es javascript pero voy a aprender otras 
+tecnologias. Este es mi año
 
 Lo voy a lograr.
