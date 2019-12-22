@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #EEEEEE;
+    text-align: center;
+}
+
+section {
+    width: 70%;
+    margin: 0px auto;
+}
+
+article {
+    padding: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+p {
+    text-align: left;
+}
