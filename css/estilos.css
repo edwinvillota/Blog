@@ -7,6 +7,19 @@ body {
     text-align: center;
 }
 
+header {
+    width: 70%;
+    margin: 0 auto;
+    background-color: #0F4C81;
+    height: 150px;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3em;
+    text-align: left;
+    padding: .5em;
+    line-height: 150px;
+}
+
 section {
     width: 70%;
     margin: 0px auto;
