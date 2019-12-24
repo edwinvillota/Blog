@@ -40,7 +40,15 @@ p {
     text-align: left;
 }
 
-.tagline {
-    color: #EEEEEE;
-    font-size: 15px;
+footer {
+    width: 70%;
+    height: 80px;
+    margin: 0 auto;
+    background-color: #333333;
+    text-align: left;
+    padding: 1em;
+}
+
+.footer_text {
+    font-family: Arial, Helvetica, sans-serif;
 }
